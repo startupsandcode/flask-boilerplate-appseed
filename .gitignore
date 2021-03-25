@@ -7,7 +7,7 @@ app/build
 yarn.lock
 yarn-error.log
 *.psd
-env/
+venv/
 env__/
 .vscode/symbols.json
 app/db.sqlite3
